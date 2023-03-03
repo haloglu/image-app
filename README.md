@@ -2,6 +2,8 @@
 
 This project is an image gallery application called Image App.
 
+This project is a Vue 3 application for displaying and filtering images. It uses the state management library Pinia to manage application state. The app allows users to filter images by color and display them in a grid layout.
+
 ## Project Setup
 
 To use this project, you will need Node.js and NPM installed on your computer. Follow these steps:
